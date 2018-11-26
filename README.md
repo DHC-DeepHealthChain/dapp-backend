@@ -4,7 +4,7 @@ This is the backend of DHC dapp. This write by node.js. use express framework. U
 ### Getting Started
 
 Clone the repo:
-<pre><code>git clone git@github.com:DeepHealthyChain/dapp-backend.git
+<pre><code>git clone https://github.com/DHC-DeepHealthChain/dapp-backend.git
 cd dapp-backend</code></pre>
 
 Install yarn:
