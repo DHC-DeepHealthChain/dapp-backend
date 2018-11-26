@@ -1,5 +1,5 @@
 # dapp-backend
-This is the backend of DHC dapp. This write by node.js. use express framework,  Users can compile it white node.js
+This is the backend of DHC dapp. This write by node.js. use express framework. Users can compile it white node.js
 
 ### Getting Started
 
