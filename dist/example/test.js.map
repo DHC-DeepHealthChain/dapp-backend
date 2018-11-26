@@ -1,0 +1,1 @@
+{"version":3,"sources":["example/test.js"],"names":["err","body","access_token","openid"],"mappings":";;AAAA;;AAEA,uBAAU,MAAV,EAAkB,UAACA,GAAD,EAAMC,IAAN,EAAe;AAC/B,MAAGD,GAAH,EAAO;AACL;AACD;AACD,wBAASC,KAAKC,YAAd,EAA2BD,KAAKE,MAAhC,EAAuC,UAACH,GAAD,EAAMC,IAAN,EAAa;AAClD,QAAGD,GAAH,EAAO,CAEN;AACF,GAJD;AAMD,CAVD","file":"test.js","sourceRoot":"../../.."}

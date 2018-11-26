@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/routes/apk.route.js"],"names":["router","Router","route","get","getApkVersion"],"mappings":";;;;;;AAAA;;;;AACA;;;;;;AAGA,IAAMA,SAAS,kBAAQC,MAAR,EAAf,C,CAAiC;AACjCD,OAAOE,KAAP,CAAa,aAAb;AACE;AADF,CAEGC,GAFH,CAEO,cAAQC,aAFf;;kBAIeJ,M","file":"apk.route.js","sourceRoot":"../../../../.."}

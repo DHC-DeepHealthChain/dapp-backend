@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/helpers/responseData.js"],"names":["ResData","result","error","message"],"mappings":";;;;;;;;IAAqBA,O,GACnB,iBAAYC,MAAZ,EAAmD;AAAA,MAA/BC,KAA+B,uEAAvB,KAAuB;AAAA,MAAhBC,OAAgB,uEAAN,IAAM;;AAAA;;AACjD,OAAKD,KAAL,GAAaA,KAAb;AACA,OAAKC,OAAL,GAAeA,OAAf;AACA,OAAKF,MAAL,GAAcA,MAAd;AACD,C;;kBALkBD,O","file":"responseData.js","sourceRoot":"../../../../.."}
